@@ -37,16 +37,18 @@ To maintain classification accuracy and fairness, the dataset is balanced betwee
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 0 | 0.94 | 0.84 | 0.89 | 500 |
 | 1 | 0.86 | 0.95 | 0.90 | 500 |
-| Accuracy | 0.90(1000 samples) |
+| Accuracy | 0.92(1000 samples) |
 | Macro Avg | 0.90 | 0.90 | 0.90 | 1000 |
 | Weighted Avg | 0.90 | 0.90 | 0.90 | 1000 |
 
 ![image](Outputs/report.jpg)
 
-• Confusion Matrix
+<h1 align="center">Confusion Matrix</h1>
+
 ![image](Outputs/confusion-matrix.jpg)
 
-• Model Accuracy
+<h1 align="center">Model Accuracy</h1>
+
 ![image](Outputs/model-acc.jpg)
 
 # Conclusion
