@@ -44,10 +44,10 @@ To maintain classification accuracy and fairness, the dataset is balanced betwee
 ![image](Outputs/report.jpg)
 
 • Confusion Matrix
-![image](Outputs/confusion matrix.jpg)
+![image](Outputs/confusion-matrix.jpg)
 
 • Model Accuracy
 ![image](Outputs/model-acc.jpg)
 
 # Conclusion
-Model gave 90% accuracy for Medical Insurance Amount Prediction using XGBoost. This project demonstrates the effectiveness of machine learning, particularly XGBoost, in accurately predicting medical insurance costs based on key factors. It aims to enhance cost transparency and planning, benefiting both insurers and customers.
+This study proposes a deep learning approach for detecting colon cancer using histopathological images from the LC25000 dataset. The CNN-based model accurately distinguishes between adenocarcinoma and normal tissue, aided by preprocessing and hyperparameter tuning. Results highlight strong performance and support the use of explainable AI in medical diagnostics, though challenges like false positives remain.
